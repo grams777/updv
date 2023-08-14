@@ -10,6 +10,14 @@ The UPDV (Updated Bible Version) is a translation of the Bible that seeks to pro
 
 Visit the official UPDV website: [https://www.updated.org](https://www.updated.org)
 
+## Copyright
+
+This is a Free Bible:
+
+Read, search, listen, download, copy, print, publish, or give it away.
+
+However, it is not to be modified. See copyright page at [https://www.updated.org](https://www.updated.org) for details.
+
 ## How to Contribute
 
 We welcome contributions from anyone interested in improving and enhancing the UPDV Updated Bible Version translation. If you would like to contribute, please ensure you familiarize yourself with the [guidelines](https://www.updated.org/) outlined on the official UPDV website in the Appendix.
@@ -36,5 +44,5 @@ Thank you for your interest in contributing to the UPDV Updated Bible Version!
 
 ---
 
-*UPDV Updated Bible Version is a trademark of Greg Abrams. 
+*UPDV Updated Bible Version is a trademark of Greg Abrams. Text is copyrighted sub
 # updv
