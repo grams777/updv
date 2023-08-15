@@ -22,7 +22,9 @@ However, it is not to be modified. See copyright page at [https://www.updated.or
 
 We welcome contributions from anyone interested in improving and enhancing the UPDV Updated Bible Version translation. If you would like to contribute, please ensure you familiarize yourself with the [guidelines](https://www.updated.org/) outlined on the official UPDV website in the Appendix.
 
-To contribute, follow these steps:
+To suggest a change or correction, you can open an issue for review.
+
+If a pull request is required, please follow these steps:
 
 1. Fork this repository to your own GitHub account.
 2. Create a new branch for your proposed changes.
