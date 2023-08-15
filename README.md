@@ -44,5 +44,5 @@ Thank you for your interest in contributing to the UPDV Updated Bible Version!
 
 ---
 
-*UPDV Updated Bible Version is a trademark of Greg Abrams. Text is copyrighted sub
+*UPDV Updated Bible Version is a trademark of Greg Abrams. Text is copyrighted subject to certain modification restrictions.
 # updv
